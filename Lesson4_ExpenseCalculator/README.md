@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 15, 2018
 
 ### Student Name:  
-(First and Last Name)
+Ashley Taylor
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, we created an interactive expense calculator. I was able to retrieve and convert the user's input to Floats. I declared variables and developed the calculations to process any input the user choses.     
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+ https://ashleytaylor0312.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to declare and display variables
+2. how to use the getElementById() method
+3. The difference between a String and a Float
 
 
 
